@@ -1,0 +1,28 @@
+.nav {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #333333;
+  color: white;
+}
+
+.nav h1 {
+  margin-bottom: 0.5rem;
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigation p {
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.link  {
+  text-decoration: none;
+  color: white;
+  margin-right: 1rem;
+}

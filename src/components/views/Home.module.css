@@ -1,0 +1,15 @@
+.img {
+    margin-top: 4.5rem;
+    margin-left: 600px;
+    cursor: pointer;
+    
+}
+
+.content {
+    min-height: 100vh;
+    background: #333333;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
